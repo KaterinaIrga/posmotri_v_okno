@@ -5,6 +5,10 @@
   justify-content: center;
   align-items: center;
   background-color: #545050;
+  width: 711px;
+  height: 386px;
+  object-fit: cover;
+  max-width:100%;
 }
 
 .error__title {
