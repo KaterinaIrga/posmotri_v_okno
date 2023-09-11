@@ -3,4 +3,4 @@
 
 В рамках реализации проекта была поставлена задача написать CSS для работающего приложения.
 
-[Ссылка на репозиторий](https://github.com/KaterinaIrga/posmotri_v_okno)
+[Ссылка на репозиторий](https://github.com/KaterinaIrga/posmotri_v_okno.git)
