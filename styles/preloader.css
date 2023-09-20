@@ -6,13 +6,15 @@
   align-items: center;
   background: #545050;
   width: 711px;
-  grid-area: video;
   max-width:100%;
-}
+  z-index: 100;
+}/*
 
 .result__video-container > .preloader {
   inset: 78px 0 70px;
-}
+  position: absolute;
+
+}*/
 
 .content__list > .preloader {
   inset: 236px 0 0;
