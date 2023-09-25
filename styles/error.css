@@ -1,6 +1,6 @@
 .error {
   position: absolute;
-  inset: 78px 0 16px;
+  inset: 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -13,13 +13,8 @@
 
 .error__title {
   color: #fff;
-  font-family: 'Fira Sans Condensed', sans-serif;
-  letter-spacing: 0.02rem;
-  word-wrap: .05rem;
-  line-height: 110%;
+  font-family: Oswald, sans-serif;
   font-size: 30px;
   text-align: center;
   text-transform: uppercase;
-  font-weight: normal;
-  font-stretch: condensed;
 }
