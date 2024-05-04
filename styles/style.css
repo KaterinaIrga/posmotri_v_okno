@@ -178,6 +178,7 @@ ol {
   block-size: 18px;
   outline: 1px solid currentColor;
   cursor: pointer;
+  position: relative;
 }
 
 .search-form__checkbox:checked + .search-form__pseudo-checkbox::before {
@@ -253,6 +254,7 @@ ol {
   overflow: auto;
   box-sizing: border-box;
   max-height: 298px;
+  min-width: 399px;
 }
 
 .content__video-card-description-container {
